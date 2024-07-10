@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# FlickPicks
 
 This project is a movie recommendation system that suggests similar movies based on a given movie title. It leverages the TMDB movies dataset and employs a content-based filtering algorithm using vectorization techniques and cosine similarity. The model is deployed using Streamlit for an interactive user experience.
 
